@@ -66,6 +66,8 @@ p{
 
 div{
     text-align: center;
+    min-width: 320px;
+    max-width: 1000px;
 }
 
 section > .sombra{
